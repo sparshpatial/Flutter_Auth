@@ -1,6 +1,6 @@
 # flutter_Auth
 
-A new Flutter project.
+A new Flutter project including  the Login , Sign in , Home page form scratch.
 
 ## Getting Started
 
