@@ -2,6 +2,8 @@
 
 A new Flutter project including  the Login , Sign in , Home page form scratch.
 
+Preferred to be run in Android Simulator  for a better clearity of the UI design.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
