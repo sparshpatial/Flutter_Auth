@@ -61,7 +61,7 @@ class _SignUpState extends State<SignUp> {
                   width: 370,
                   child: TextField(
                       decoration: InputDecoration(
-                          hintText: "Enter username",
+                          hintText: "Enter Username",
                           labelText: "Username",
                           border: new OutlineInputBorder(
                               borderRadius: new BorderRadius.circular(
@@ -74,7 +74,7 @@ class _SignUpState extends State<SignUp> {
                   child: TextField(
                       obscureText: true,
                       decoration: InputDecoration(
-                          hintText: "Enter password",
+                          hintText: "Enter Password",
                           labelText: "Password",
                           border: new OutlineInputBorder(
                               borderRadius: new BorderRadius.circular(
