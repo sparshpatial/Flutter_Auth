@@ -3,6 +3,7 @@
 A new Flutter project including  the Welcome page , Login page , Sign in page , Home page  made form scratch.
 
 Preferred to be run in an Android Simulator for a better clearity of the UI designs.
+
 Can run in any web browser(Chrome etc) and also on IOS devices.
 
 ## Getting Started
