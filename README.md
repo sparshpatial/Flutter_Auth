@@ -1,10 +1,10 @@
 # flutter_Auth
 
-A new Flutter project including  the Welcome page , Login page , Sign in page , Home page  made form scratch.
+A new <b>Flutter project</b> including  the <b> Welcome page , Login page , Sign in page , Home page </B>  made form scratch.
 
-Preferred to be run in an Android Simulator for a better clearity of the UI designs.
+=>Preferred to be run in an Android Simulator for a better clearity of the UI designs.
 
-Can run in any web browser(Chrome etc) and also on IOS devices.
+=>Can run in any web browser(Chrome etc) and also on IOS devices.
 
 ## Getting Started
 
