@@ -1,4 +1,4 @@
-# flutter_Auth
+# Flutter_Auth
 
 A new <b>Flutter project</b> including  the <b> Welcome page , Login page , Sign in page , Home page </B>  made form scratch.
 
