@@ -4,7 +4,7 @@ A new <b>Flutter project</b> including  the <b> Welcome page , Login page , Sign
 
 =>Preferred to be run in an Android Simulator for a better clearity of the UI designs.
 
-=>Can run in any web browser(Chrome etc) and also on IOS devices.
+=>Can run in any web browser(Chrome etc),andriod phones and also on IOS devices.
 
 ## Getting Started
 
